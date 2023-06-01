@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, Nice too see you.</h1>
 <h3 align="center">Welcome to my page! I'm Laura, frontend developer from Bogotá, Colombia 🇨🇴</h3>
+<p align="center">
+  <img src="./Fira Code Light.png" alt="Blue Modern Jamboard Background">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

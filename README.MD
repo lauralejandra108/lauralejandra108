@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nice too see u</h1>
+<h1 align="center">Hi 👋, Nice too see you.</h1>
 <h3 align="center">Welcome to my page! I'm Laura, frontend developer from Bogotá, Colombia 🇨🇴</h3>
 
 <h3 align="left">Connect with me:</h3>

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Nice too see you.</h1>
 <h3 align="center">Welcome to my page! I'm Laura, frontend developer from Bogotá, Colombia 🇨🇴</h3>
 <p align="center">
-  <img src="./Fira Codee.png" alt="yogui development">
+  <img src="./Fira Code.png" alt="yogui development">
 </p>
 
 <h3 align="left">Connect with me:</h3>
